@@ -9,10 +9,10 @@ import { Inter } from "next/font/google";
 
 const inter = Inter({ subsets: ["latin"] });
 
-export const metadata = {
-  title: "LeetCode Lite",
-  description: "Leetcode Lite a free and open source Leetcode clone",
-};
+// export const metadata = {
+//   title: "LeetCode Lite",
+//   description: "Leetcode Lite a free and open source Leetcode clone",
+// };
 
 export default function RootLayout({
   children,
