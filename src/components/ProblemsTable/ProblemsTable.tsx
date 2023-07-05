@@ -48,7 +48,7 @@ export default function ProblemsTable() {
               <td className="px-6 py-4">
                 <Link
                   className="hover:text-blue-600 cursor-pointer"
-                  target="_blank"
+                  // target="_blank"
                   href={`/problems/${doc.id}`}
                 >
                   {`${index + 1}. ${doc.title}`}
