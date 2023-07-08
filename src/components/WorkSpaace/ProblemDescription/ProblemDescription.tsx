@@ -149,6 +149,9 @@ export default function ProblemDescription() {
                 </li>
               </ul>
             </div>
+            <div className="text-xs text-gray-400 px-3 py-5">
+              <p>Copyright ©️ 2023 LeetCode Lite, Made by Piyush Sagar 💖 </p>
+            </div>
           </div>
         </div>
       </div>
